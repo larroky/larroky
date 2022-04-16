@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Raquel Orozco </h2>
-<h4 align="left">Software developer student at <a href="https://www.42madrid.com"> 42 Madrid Telefónica </a> </h4>
+<h4 align="left">Software developer student at <a href="https://www.42madrid.com/en"> 42 Madrid Telefónica </a> </h4>
 
 - 💻 Currently working on **ft_transcendence**
 - 🌱 Currently learning **Angular, Typescript, PostgreSQL, Python**
@@ -7,7 +7,7 @@
 
 ##
 [![rorozco-'s 42 stats](https://badge42.vercel.app/api/v2/cl22a9b89001109l030lfdksh/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
-[![larroky's GitHub stats](https://github-readme-stats.vercel.app/api?username=larroky&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pruiz-ca&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
