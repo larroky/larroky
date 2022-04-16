@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Raquel Orozco </h2>
-<h4 align="left">Software developer student at [42 Madrid Telefónica](https://www.42madrid.com) </h4>
+<h4 align="left">Software developer student at <a href="https://www.42madrid.com"> 42 Madrid Telefónica </a> </h4>
 
 - 💻 Currently working on **ft_transcendence**
 - 🌱 Currently learning **Angular, Typescript, PostgreSQL, Python**
