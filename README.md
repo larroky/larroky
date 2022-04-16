@@ -5,7 +5,11 @@
 - 🌱 Currently learning **Angular, Typescript, PostgreSQL, Python**
 - 📫 Reach me at **rorozco-@student.42madrid.com**
 
-<h2 align="left">Languages and Tools:</h2>
+##
+[![rorozco-'s 42 stats](https://badge42.vercel.app/api/v2/cl22a9b89001109l030lfdksh/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
+[![larroky's GitHub stats](https://github-readme-stats.vercel.app/api?username=larroky&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="left">Languages and Tools</h2>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
