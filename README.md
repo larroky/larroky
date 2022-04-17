@@ -7,7 +7,6 @@
 
 ##
 [![rorozco-'s 42 stats](https://badge42.vercel.app/api/v2/cl22a9b89001109l030lfdksh/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=larroky&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Languages and Tools</h2>
