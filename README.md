@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Raquel</h2>
 <h4 align="left">Software developer student at <a href="https://www.42madrid.com/en"> 42 Madrid Telefónica </a> </h4>
 
-- 💻 Currently working on **ft_transcendence**
-- 🌱 Currently learning **Angular, Typescript, PostgreSQL, Python**
+<!-- - 💻 Currently working on **ft_transcendence** -->
+- 🌱 Currently learning **Python, React and Graphics Programming **
 - 📫 Reach me at **rorozco-@student.42madrid.com**
 
 ##
