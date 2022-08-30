@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Raquel</h2>
 <h4 align="left">Software developer student at <a href="https://www.42madrid.com/en"> 42 Madrid Telefónica </a> </h4>
 
-<!-- - 💻 Currently working on **ft_transcendence** -->
-- 🌱 Currently learning **Python, React and Graphics Programming **
-- 📫 Reach me at **rorozco-@student.42madrid.com**
+<!-- - 💻 Currently working on **guimp** -->
+- 🌱 Currently learning **Python, React and Graphics Programming**
+- 📫 Reach me at **rorozco-@student.42madrid.com** or via **[LinkedIn](https://www.linkedin.com/in/rorozco-/)**
 
 ##
 [![rorozco-'s 42 stats](https://badge42.vercel.app/api/v2/cl22a9b89001109l030lfdksh/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
